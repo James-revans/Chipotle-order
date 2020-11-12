@@ -3,6 +3,10 @@ import timsOrder from "./tim.js";
 
 document.querySelector(".james").textContent = JSON.stringify(
     jamesOrder,
+    null,
+    2
+);
+document.querySelector(".tim").textContent = JSON.stringify(
     timsOrder,
     null,
     2
