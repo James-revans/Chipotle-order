@@ -1,4 +1,4 @@
-const jamesOrder = {
+const timsOrder = {
     item: "bowl",
     rice: "white",
     beans: "none",
@@ -13,4 +13,4 @@ const jamesOrder = {
     sour_cream: 0,
 };
 
-export default { jamesOrder };
+export default { timsOrder };
