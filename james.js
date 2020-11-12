@@ -3,14 +3,14 @@ const jamesOrder = {
     rice: "white",
     beans: "black",
     meat: "chicken",
-    fajita_veggies: true,
-    chile_corn_sala: true,
-    fresh_tomato_salsa: true,
-    red_salsa: true,
-    cheese: true,
-    guac: true,
-    lettuce: true,
-    sour_cream: true,
+    fajita_veggies: 1,
+    chile_corn_salsa: 1,
+    fresh_tomato_salsa: 1,
+    red_salsa: 1,
+    cheese: 1,
+    guac: 1,
+    lettuce: 1,
+    sour_cream: 1,
 };
 
 export default { jamesOrder };
